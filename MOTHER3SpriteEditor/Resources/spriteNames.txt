@@ -1,0 +1,1000 @@
+[0000] (EMPTY) (1)
+[0001] Flint (1)
+[0002] Flint (2)
+[0003] Lucas (1)
+[0004] Lucas (2)
+[0005] Claus (1)
+[0006] Claus (2)
+[0007] Claus (3)
+[0008] Hinawa
+[0009] Boney (1)
+[000A] Boney (2)
+[000B] Kumatora (1)
+[000C] Kumatora (2)
+[000D] Kumatora (3)
+[000E] Wess (1)
+[000F] Duster (1)
+[0010] Duster (2)
+[0011] Fassad (1)
+[0012] Salsa (1)
+[0013] Samba
+[0014] Pusher
+[0015] Elmore
+[0016] Ollie (1)
+[0017] Ollie (2)
+[0018] Sebastian
+[0019] Mapson
+[001A] Jackie (1)
+[001B] Jackie (2)
+[001C] Betsy
+[001D] Tessie
+[001E] Bateau
+[001F] Thomas (1)
+[0020] Thomas (2)
+[0021] Thomas (3)
+[0022] Lisa
+[0023] Mike (1)
+[0024] Mike (2)
+[0025] Salsa (2)
+[0026] Reggie
+[0027] Bronson (1)
+[0028] Bronson (2)
+[0029] Caroline
+[002A] Angie (1)
+[002B] Angie (2)
+[002C] Abbot (1)
+[002D] Abbot (2)
+[002E] Abbey
+[002F] Matt (1)
+[0030] Matt (2)
+[0031] Butch (1)
+[0032] Butch (2)
+[0033] Biff (1)
+[0034] Biff (2)
+[0035] Jill
+[0036] Jonel (1)
+[0037] Jonel (2)
+[0038] Brenda
+[0039] Bob (1)
+[003A] Bob (2)
+[003B] Dona
+[003C] Lucas (3)
+[003D] Paul (1)
+[003E] Paul (2)
+[003F] Linda
+[0040] Nana (1)
+[0041] Nana (2)
+[0042] Richie (1)
+[0043] Richie (2)
+[0044] Nichol (1)
+[0045] Nichol (2)
+[0046] Boney (3)
+[0047] Lucas (4)
+[0048] Nippolyte
+[0049] Porky (Unused)
+[004A] Isaac (1)
+[004B] Isaac (2)
+[004C] Bud (1)
+[004D] Bud (2)
+[004E] Lou (1)
+[004F] Lou (2)
+[0050] Scamp
+[0051] Ed
+[0052] Nan
+[0053] Alle (1)
+[0054] Alle (2)
+[0055] Lighter (1)
+[0056] Fuel (1)
+[0057] Fuel (2)
+[0058] Alec (1)
+[0059] Pigmask (1)
+[005A] Pigmask (2)
+[005B] Pigmask (3)
+[005C] Clayman (1)
+[005D] Mr. Saturn (1)
+[005E] Parrot
+[005F] Skinhead
+[0060] Neckbeard
+[0061] Guy (1)
+[0062] Dr. Andonuts
+[0063] Attendant
+[0064] Duster (DCMC)
+[0065] Fish (1)
+[0066] Fish (2)
+[0067] Hermit Crab
+[0068] Lady (1)
+[0069] M.Butterfly
+[006A] Sheep (1)
+[006B] Cow (1)
+[006C] Pig
+[006D] Chicken
+[006E] Dove
+[006F] OJ
+[0070] Shimmy Zmizz
+[0071] Baccio
+[0072] Magic (1)
+[0073] Drago Pup (1)
+[0074] Ionia (1)
+[0075] Doria
+[0076] Phrygia
+[0077] Lydia
+[0078] Mixolydia (1)
+[0079] Aeolia
+[007A] Boney (head w/ cap)
+[007B] Pork Bean
+[007C] Pork Tank
+[007D] Girl
+[007E] Researcher (1)
+[007F] Gift Box (glitchy)
+[0080] Mole Cricket (shop)
+[0081] Frog (1)
+[0082] Lighter (2)
+[0083] Lumber
+[0084] Porky-Bot
+[0085] Man (1)
+[0086] Frog (2)
+[0087] Bonfire (1)
+[0088] Guy (2)
+[0089] Boney (DCMC)
+[008A] Guy (3)
+[008B] Cow (2)
+[008C] Clayman (2)
+[008D] Lucas (Commander)
+[008E] Leo-Leo
+[008F] Pigmask?(4)
+[0090] Masked Man
+[0091] Pigmask (5)
+[0092] Drago Pup (2)
+[0093] Mole Cricket (2)
+[0094] Elder Cricket
+[0095] Duster (pigmask)
+[0096] Kumatora (pigmask)
+[0097] Arrow Lizard
+[0098] O2 Machine (1)
+[0099] Lucas (PJ's)
+[009A] Man (2)
+[009B] Woman (1)
+[009C] Hot Spring Lady (2)
+[009D] Alec (head)
+[009E] Ionia (head)
+[009F] Flint (burnt)
+[00A0] Fuel (burnt)
+[00A1] Leder (1)
+[00A2] Refrigerator
+[00A3] Stray Dog (1)
+[00A4] Stray Dog (2)
+[00A5] Item Guy (1)
+[00A6] Shadow (glitchy)
+[00A7] Sparrow
+[00A8] Sat.Fisher
+[00A9] Hot Spring Old Man
+[00AA] Ocho (1)
+[00AB] Man (3)
+[00AC] Woman (2)
+[00AD] Knock! (1)
+[00AE] Knock! (2)
+[00AF] Bow (1)
+[00B0] Bow (2)
+[00B1] Guy (4)
+[00B2] Lady (3)
+[00B3] Flint (charred)
+[00B4] Fuel (charred)
+[00B5] Flint (charred head)
+[00B6] Fuel (charred head)
+[00B7] Old Guy (1)
+[00B8] Policeman
+[00B9] Mr. Saturn (ladder)
+[00BA] Sparks (?)
+[00BB] Arrows (Salsa dance)
+[00BC] Objects (various)
+[00BD] Doorknob
+[00BE] Apple
+[00BF] Lumber (2)
+[00C0] Empty
+[00C1] Magic (2)
+[00C2] Pork Bomb
+[00C3] Glitchy (1)
+[00C4] Hmm...
+[00C5] ?
+[00C6] Pork Saucer
+[00C7] Construction Guy
+[00C8] Interpreter
+[00C9] Pig Book
+[00CA] Flowers
+[00CB] Frog (3)
+[00CC] Large shadow
+[00CD] Clothesline
+[00CE] Bucket Bros
+[00CF] Claus's Shoe
+[00D0] Mr.Saturn (2)
+[00D1] Pendant
+[00D2] Pork Vending Machine
+[00D3] Noble Spitoon
+[00D4] Large shadow + "HAPPY END"
+[00D5] Happy box "in box"
+[00D6] Monkey zapper
+[00D7] Clayman (3)
+[00D8] Frog (4)
+[00D9] Frog (5)
+[00DA] Sheep (2)
+[00DB] Net
+[00DC] Banana
+[00DD] Ionia (tied up)
+[00DE] Flying birdcage
+[00DF] (EMPTY) (2)
+[00E0] Rock-paper-scissors
+[00E1] Pigmask (6)
+[00E2] Sparkles
+[00E3] Pigmask (7)
+[00E4] Map
+[00E5] Man (4)
+[00E6] Mole
+[00E7] Sheep (2)
+[00E8] Blue giftbox (glitchy)
+[00E9] Sheep (3)
+[00EA] CpnExchang
+[00EB] Guy (5)
+[00EC] Guy (6)
+[00ED] Boney (water)
+[00EE] Bird
+[00EF] Man (4)
+[00F0] Frog (6)
+[00F1] Lucas (pigmask)
+[00F2] Boney (pigmask)
+[00F3] Lucas (water)
+[00F4] Flint (water)
+[00F5] Guy (7)
+[00F6] Duster (water)
+[00F7] Pigmask helmet
+[00F8] Milk bottle (glitchy)
+[00F9] Pigmask (water)
+[00FA] Kumatora (water)
+[00FB] Wess (water)
+[00FC] Salsa (water)
+[00FD] Fassad (water)
+[00FE] Exclamation sprites (glitchy)
+[00FF] Thomas (water)
+[0100] DUMMY (1)
+[0101] Reconstructed Caribou
+[0102] Mr. Passion
+[0103] Blue shadow
+[0104] Clayman (4)
+[0105] Mecha Drago
+[0106] Blank square
+[0107] Mr. Genetor
+[0108] White dot
+[0109] Ultimate Chimera
+[010A] Bright Smile
+[010B] Porky (1)
+[010C] NK Cyborg
+[010D] Word on the Wind
+[010E] Pork Trooper (1)
+[010F] Pork Trooper (2)
+[0110] Jealous Bass
+[0111] DUMMY (2)
+[0112] Slimy Slug
+[0113] DUMMY (3)
+[0114] Porky Statue
+[0115] Hippo Launcher
+[0116] DUMMY (4)
+[0117] DUMMY (5)
+[0118] Lord Passion
+[0119] Tender Loving Tree
+[011A] DUMMY (6)
+[011B] DUMMY (7)
+[011C] DUMMY (8)
+[011D] DUMMY (9)
+[011E] DUMMY (10)
+[011F] Fenomeno
+[0120] Rhinocerocket Mark II
+[0121] FrightBot
+[0122] The Squeekz
+[0123] FireFly	
+[0124] Mecha-Lion
+[0125] Road Block	
+[0126] Scamperin' Mushroom
+[0127] Squawking Boomstick
+[0128] Top Dogfish
+[0129] Mr.Batty
+[012A] Greedy Mouse
+[012B] Firefly (2)
+[012C] Yammonster
+[012D] Flying Mouse
+[012E] DUMMY (11)
+[012F] Agitated Boar
+[0130] Mighty Bitey Snake
+[0131] Soot Dumpling
+[0132] Baked Yammonster
+[0133] Walking Bushie
+[0134] The medusa enemy
+[0135] Carefree Jellyfish
+[0136] Crag Lizard
+[0137] Spud Bug
+[0138] Ten-Yeti
+[0139] Chilly Dog
+[013A] Big Spud Bug
+[013B] Minerali
+[013C] Ramblin' Evil Mushroom
+[013D] DUMMY (12)
+[013E] Boa Transistor
+[013F] Mischievous Mole
+[0140] Mecha-Mole!
+[0141] Balding Eagle
+[0142] Tree
+[0143] Titany
+[0144] Glitchy (2)
+[0145] Mrs.Lava
+[0146] Magman
+[0147] Zombie Boy
+[0148] Zombie Dog
+[0149] Lingering Spirit
+[014A] Mobile Grave
+[014B] Detached Leech
+[014C] Spineless Lobster
+[014D] HUGE Pillbug
+[014E] Cheery Skeleton
+[014F] Big Bro
+[0150] Barrel Man
+[0151] Strawberry Slime
+[0152] Arachnid!
+[0153] Wan Sum Dung
+[0154] Barrier Man
+[0155] Ghost Armor (armor only)
+[0156] Ghost Sword
+[0157] Ghost Shield
+[0158] Ghost Armor (With Sword and Shield)
+[0159] Osohe Cape
+[015A] Rockin' Ghost
+[015B] Pseudoor
+[015C] DUMMY (13)
+[015D] Dung Beetle
+[015E] Great Antlion
+[015F] Sara-Sara-Sahara
+[0160] Sand Lizard
+[0161] Cactus Wolf
+[0162] Gooey Goo
+[0163] Cleocatra
+[0164] Little Bro
+[0165] Zombishroom
+[0166] Ghost Sprites
+[0167] Artsy Ghost
+[0168] Horsantula
+[0169] Pigtunia
+[016A] Squawking Stick
+[016B] Putrid Moldyman
+[016C] Slitherhen
+[016D] Whatever
+[016E] Dogfish
+[016F] Cattlesnake
+[0170] Einswine
+[0171] Mantis
+[0172] Ancient Dragonfly
+[0173] Violent Roach
+[0174] Muttshroom
+[0175] Mecha-Turtle
+[0176] Bro Team
+[0177] Batangutan
+[0178] Ostrelephant
+[0179] Sky Titany
+[017A] Monkalrus
+[017B] Parental Kangashark
+[017C] Li'l Miss Marshmallow
+[017D] Almost Mecha Lion
+[017E] Rhinocerocket
+[017F] Wound-Up Road Hog
+[0180] Metal Attack Roach
+[0181] Really Flying Mouse
+[0182] Short Circuit Zap!
+[0183] Minor Robo
+[0184] Love Walker
+[0185] DUMMY (14)
+[0186] Atomic Power Robot
+[0187] Nuclear Reactor Robot
+[0188] Negative Man
+[0189] Heavyhead
+[018A] Nice Poser
+[018B] Big Spud Bug
+[018C] Grated Yammonster
+[018D] Hippo Launcher (closed)
+[018E] Steel Mecho-Rilla
+[018F] Zombidillo
+[0190] Fish Roe Man
+[0191] DUMMY (15)
+[0192] Return of Octobot
+[0193] Carpet Monster
+[0194] Security Robo
+[0195] Pigmask (8)
+[0196] Zombie Lady (enemy)
+[0197] Naughty Mushroom
+[0198] Elder Batty
+[0199] Arachnid!!!
+[019A] Greedier Mouse
+[019B] Gently Weeping Guitar
+[019C] Beaten Drum
+[019D] Reconstructed Mole
+[019E] Mecha-Lion
+[019F] Wobbly Robot
+[01A0] Men's Toilet Room Sign
+[01A1] Scrapped Robo
+[01A2] Forlorn Junk Heap
+[01A3] Surprise Box
+[01A4] Battery man
+[01A5] Screwloose
+[01A6] Cuddle Bomb
+[01A7] K9000
+[01A8] Alkaline Man (Unused)
+[01A9] DUMMY (16)
+[01AA] Pigmask (8)
+[01AB] Pigmask (9)
+[01AC] Pigmask (10)
+[01AD] Pigmask (11)
+[01AE] Master Eddy
+[01AF] Rock Lobster
+[01B0] Rooound Fish
+[01B1] Blue Balding Eagle
+[01B2] Surveillance Mech
+[01B3] Unwelcome Gust
+[01B4] Red-caped NPC
+[01B5] Black-caped NPC
+[01B6] Titanian
+[01B7] Upgraded Robo
+[01B8] Beanling
+[01B9] Beanling Recolor
+[01BA] DUMMY (17)
+[01BB] DUMMY (18)
+[01BC] DUMMY (19)
+[01BD] DUMMY (20)
+[01BE] DUMMY (21)
+[01BF] DUMMY (22)
+[01C0] Dung
+[01C1] Frog (7)
+[01C2] Frog (8)
+[01C3] Hermit crab, w/out shell
+[01C4] Thunder Fish
+[01C5] Shimmy Zmizz
+[01C6] Magic
+[01C7] Duster (3)
+[01C8] DCMC Keyboard
+[01C9] OJ
+[01CA] DUMMY (23)
+[01CB] Bug
+[01CC] Item Guy's tent (Unused)
+[01CD] Snow Bun
+[01CE] Clayman (5)
+[01CF] Sauna Smoke
+[01D0] DUMMY (24)
+[01D1] DUMMY (25)
+[01D2] Table
+[01D3] Pile of Leaves
+[01D4] Blue sauna smoke
+[01D5] A red awning?
+[01D6] Drago (1)
+[01D7] Pork Trooper (3)
+[01D8] Green Train
+[01D9] Pump Chimera
+[01DA] Slot Brother
+[01DB] ChupiChupyoi wines unfrozen
+[01DC] Pork Saucer Ladder
+[01DD] Fire (1)
+[01DE] Red Flag
+[01DF] Ropeway Train
+[01E0] Pulled Needle
+[01E1] Log on fire
+[01E2] Fire (2)
+[01E3] Fire (3)
+[01E4] Clayman (6)
+[01E5] BOM!
+[01E6] Smoke
+[01E7] Duster (4)
+[01E8] Rotating wood piece?
+[01E9] Bookshelf
+[01EA] Ch.1 Fireflies
+[01EB] Hinawa's Cloth
+[01EC] Thunder Fish
+[01ED] Magic Broom
+[01EE] Fish
+[01EF] Lightning
+[01F0] Red Train
+[01F1] Sign Post
+[01F2] Night Sign Post
+[01F3] Pump Chimera water
+[01F4] Creepy painting
+[01F5] Friendly Ghosts
+[01F6] Duster (5) (TrashCan?)
+[01F7] Osohe Statue
+[01F8] Hummingbird Egg
+[01F9] Duster (6)
+[01FA] Rockin' Ghost (2) (Glitchy)
+[01FB] Candle Holder
+[01FC] Friendly Mice
+[01FD] Instant Revitalizing Machine
+[01FE] Beam???
+[01FF] Invisible ghost actions
+[0200] Rope Snake
+[0201] Stinkbug?
+[0202] Dump Truck
+[0203] Smoke
+[0204] Aeolia Disappearing
+[0205] Doria Disappearing
+[0206] Dryer Chimera
+[0207] Osohe Castle diagrams
+[0208] DCMC Billboard
+[0209] Glitchied Rock
+[020A] Window
+[020B] Rock disintegrating
+[020C] Pusher's car
+[020D] Drago (2)
+[020E] White/Blue Puddle
+[020F] Window view??
+[0210] Blue Pork Heli
+[0211] Osohe Stuff
+[0212] Lydia Disappearing
+[0213] Mixolydia Disappearing
+[0214] Ghost of Hinawa
+[0215] Drago (3)
+[0216] Absolutely Safe Capsule (Glitchied)
+[0217] Lightning
+[0218] Light Brown Mouse
+[0219] Dr.Andonuts in Trash Can
+[021A] Osohe (EndGame)
+[021B] Pork Heli (EndGame)
+[021C] Meteorite
+[021D] Explosion
+[021E] 3 years later, Tazmily Village ~
+[021F] Crashing Pork Heli (1)
+[0220] Rocks being crushed
+[0221] Porky (2)
+[0222] Blue explosion
+[0223] Crashing Pork Heli (2)
+[0224] Meteorite (EndGame)
+[0225] Blue Vapors (C. of the Past)
+[0226] Purple Vapors (C. of the Past)
+[0227] Room
+[0228] Lab-like interior
+[0229] Night-time Lab-like interior
+[022A] Alec's house
+[022B] Inside of a Magypsy's house
+[022C] Grave
+[022D] Phrygia disappearing
+[022E] White boxes
+[022F] Pencil/Octopus Statue 
+[0230] Caribou
+[0231] Ionia Disappearing
+[0232] Dryer Chimera "Dry"
+[0233] Energizing Mushrooms
+[0234] Tazmily Bridge
+[0235] Pink Camper Car
+[0236] Mr. Saturn Tea Table
+[0237] Tea table w/ Lucas, Kumatora, and Boney
+[0238] Tea table w/ Lucas and Boney
+[0239] Boat from EB Room
+[023A] Minigame PorkyBot
+[023B] False Shark and Alligator
+[023C] Wagon
+[023D] Pump w/ balloon
+[023E] DCMC Drum Set
+[023F] Purple Smoke
+[0240] Fire Geyser
+[0241] Fireworks
+[0242] Police Car
+[0243] Pink Car
+[0244] Mice Table
+[0245] Mother 3 End Logo
+[0246] 2/3 of Earth Symbol
+[0247] Last 1/3 of Earth Symbol
+[0248] Men's Room
+[0249] Aeolia in Chair
+[024A] Glitchy (4)
+[024B] Glitchy (5)
+[024C] Glitchy (6)
+[024D] Glitchy (7)
+[024E] Glitchy (8)
+[024F] Glitchy (9)
+[0250] Glitchy (10)
+[0251] Glitchy (11)
+[0252] Glitchy (12)
+[0253] Glitchy (13)
+[0254] Glitchy (14)
+[0255] Glitchy (15)
+[0256] Glitchy (16)
+[0257] Glitchy (17)
+[0258] Glitchy (18)
+[0259] Glitchy (19)
+[025A] Glitchy (20)
+[025B] Glitchy (21)
+[025C] Glitchy (22)
+[025D] Glitchy (23)
+[025E] Glitchy (24)
+[025F] Glitchy (25)
+[0260] Glitchy (26)
+[0261] Glitchy (27)
+[0262] Glitchy (28)
+[0263] Glitchy (29)
+[0264] Glitchy (30)
+[0265] Glitchy (31)
+[0266] Glitchy (32)
+[0267] Glitchy (33)
+[0268] Glitchy (34)
+[0269] Glitchy (35)
+[026A] Glitchy (36)
+[026B] Glitchy (37)
+[026C] Tazmily Boat
+[026D] Pigmask (12)
+[026E] Girl w/ Flowing red Hair
+[026F] Factory NPC
+[0270] Rolling Rock (1) (Glitchy)
+[0271] Rolling Rock (2) (Glitchy)
+[0272] Bikini NPC
+[0273] Porky Fans (1)
+[0274] Porky Fans (2)
+[0275] Porky Fans (3)
+[0276] Hat NPC
+[0277] Chauffeur (1)
+[0278] Chauffeur (2)
+[0279] Wrecking Ball
+[027A] Wig NPC
+[027B] Frog (9)
+[027C] Frog (10)
+[027D] Horse O2 Machine
+[027E] (EMPTY) (3)
+[027F] (EMPTY) (4)
+[0280] Gift box (3) (Finally not glitchy)
+[0281] Lardna-Bot
+[0282] Black Worker (Unused Fire scene NPC?) 
+[0283] Factory NPC
+[0284] Lady NPC
+[0285] Old Lady NPC
+[0286] Indice Guy (Glitchy)
+[0287] Pigmask (Water) (2)
+[0288] Researcher (2)
+[0289] Lucas (5)
+[028A] Flint (3)
+[028B] (EMPTY) (5)
+[028C] (EMPTY) (6)
+[028D] Mr.T
+[028E] Blonde Chick
+[028F] Black haired Chick
+[0290] (EMPTY) (5)
+[0291] Geeky NPC
+[0292] Zombie Chick NPC
+[0293] Rapper NPC
+[0294] Grey Box
+[0295] Beard NPC
+[0296] Highway Robot
+[0297] Mr.Saturn (3)
+[0298] No one
+[0299] No one
+[029A] No one
+[029B] No one
+[029C] No one
+[029D] No one
+[029E] No one
+[029F] No one
+[02A0] No one
+[02A1] No one
+[02A2] No one
+[02A3] No one
+[02A4] No one
+[02A5] No one
+[02A6] No one
+[02A7] No one
+[02A8] No one
+[02A9] No one
+[02AA] No one
+[02AB] No one
+[02AC] No one
+[02AD] No one
+[02AE] No one
+[02AF] No one
+[02B0] No one
+[02B1] No one
+[02B2] No one
+[02B3] No one
+[02B4] No one
+[02B5] No one
+[02B6] No one
+[02B7] No one
+[02B8] No one
+[02B9] No one
+[02BA] No one
+[02BB] No one
+[02BC] No one
+[02BD] No one
+[02BE] No one
+[02BF] No one
+[02C0] No one
+[02C1] No one
+[02C2] No one
+[02C3] No one
+[02C4] No one
+[02C5] No one
+[02C6] No one
+[02C7] No one
+[02C8] No one
+[02C9] No one
+[02CA] No one
+[02CB] Lucas (6)
+[02CC] Lucas (7)
+[02CD] Salsa (3)
+[02CE] Duster (7)
+[02CF] Flint (4)
+[02D0] No one
+[02D1] No one
+[02D2] No one
+[02D3] No one
+[02D4] No one
+[02D5] No one
+[02D6] No one
+[02D7] No one
+[02D8] No one
+[02D9] No one
+[02DA] No one
+[02DB] No one
+[02DC] No one
+[02DD] No one
+[02DE] No one
+[02DF] No one
+[02E0] No one
+[02E1] No one
+[02E2] No one
+[02E3] No one
+[02E4] No one
+[02E5] No one
+[02E6] No one
+[02E7] No one
+[02E8] No one
+[02E9] No one
+[02EA] No one
+[02EB] No one
+[02EC] No one
+[02ED] No one
+[02EE] No one
+[02EF] No one
+[02F0] No one
+[02F1] No one
+[02F2] No one
+[02F3] No one
+[02F4] No one
+[02F5] No one
+[02F6] No one
+[02F7] No one
+[02F8] No one
+[02F9] No one
+[02FA] No one
+[02FB] No one
+[02FC] No one
+[02FD] No one
+[02FE] No one
+[02FF] No one
+[0300] No one
+[0301] No one
+[0302] No one
+[0303] No one
+[0304] No one
+[0305] No one
+[0306] No one
+[0307] No one
+[0308] No one
+[0309] No one
+[030A] No one
+[030B] No one
+[030C] No one
+[030D] No one
+[030E] No one
+[030F] No one
+[0310] No one
+[0311] No one
+[0312] No one
+[0313] No one
+[0314] No one
+[0315] No one
+[0316] No one
+[0317] No one
+[0318] No one
+[0319] No one
+[031A] No one
+[031B] No one
+[031C] No one
+[031D] No one
+[031E] No one
+[031F] No one
+[0320] No one
+[0321] No one
+[0322] No one
+[0323] No one
+[0324] No one
+[0325] No one
+[0326] No one
+[0327] No one
+[0328] No one
+[0329] No one
+[032A] No one
+[032B] No one
+[032C] No one
+[032D] No one
+[032E] No one
+[032F] No one
+[0330] No one
+[0331] No one
+[0332] No one
+[0333] No one
+[0334] No one
+[0335] No one
+[0336] No one
+[0337] No one
+[0338] No one
+[0339] No one
+[033A] No one
+[033B] No one
+[033C] No one
+[033D] No one
+[033E] No one
+[033F] No one
+[0340] No one
+[0341] No one
+[0342] No one
+[0343] No one
+[0344] No one
+[0345] No one
+[0346] No one
+[0347] No one
+[0348] No one
+[0349] No one
+[034A] No one
+[034B] No one
+[034C] No one
+[034D] No one
+[034E] No one
+[034F] No one
+[0350] No one
+[0351] No one
+[0352] No one
+[0353] No one
+[0354] No one
+[0355] No one
+[0356] No one
+[0357] No one
+[0358] No one
+[0359] No one
+[035A] No one
+[035B] No one
+[035C] No one
+[035D] No one
+[035E] No one
+[035F] No one
+[0360] No one
+[0361] No one
+[0362] No one
+[0363] No one
+[0364] No one
+[0365] No one
+[0366] No one
+[0367] No one
+[0368] No one
+[0369] No one
+[036A] No one
+[036B] No one
+[036C] No one
+[036D] No one
+[036E] No one
+[036F] No one
+[0370] No one
+[0371] No one
+[0372] No one
+[0373] No one
+[0374] No one
+[0375] No one
+[0376] No one
+[0377] No one
+[0378] No one
+[0379] No one
+[037A] No one
+[037B] No one
+[037C] No one
+[037D] No one
+[037E] No one
+[037F] No one
+[0380] No one
+[0381] No one
+[0382] No one
+[0383] No one
+[0384] No one
+[0385] No one
+[0386] No one
+[0387] No one
+[0388] No one
+[0389] No one
+[038A] No one
+[038B] No one
+[038C] No one
+[038D] No one
+[038E] No one
+[038F] No one
+[0390] No one
+[0391] No one
+[0392] No one
+[0393] No one
+[0394] No one
+[0395] No one
+[0396] No one
+[0397] No one
+[0398] No one
+[0399] No one
+[039A] No one
+[039B] No one
+[039C] No one
+[039D] No one
+[039E] No one
+[039F] No one
+[03A0] No one
+[03A1] No one
+[03A2] No one
+[03A3] No one
+[03A4] No one
+[03A5] No one
+[03A6] No one
+[03A7] No one
+[03A8] No one
+[03A9] No one
+[03AA] No one
+[03AB] No one
+[03AC] No one
+[03AD] No one
+[03AE] No one
+[03AF] No one
+[03B0] No one
+[03B1] No one
+[03B2] No one
+[03B3] No one
+[03B4] No one
+[03B5] No one
+[03B6] No one
+[03B7] No one
+[03B8] No one
+[03B9] No one
+[03BA] No one
+[03BB] No one
+[03BC] No one
+[03BD] No one
+[03BE] No one
+[03BF] No one
+[03C0] No one
+[03C1] No one
+[03C2] No one
+[03C3] No one
+[03C4] No one
+[03C5] No one
+[03C6] No one
+[03C7] No one
+[03C8] No one
+[03C9] No one
+[03CA] No one
+[03CB] No one
+[03CC] No one
+[03CD] No one
+[03CE] No one
+[03CF] No one
+[03D0] No one
+[03D1] No one
+[03D2] No one
+[03D3] No one
+[03D4] No one
+[03D5] No one
+[03D6] No one
+[03D7] No one
+[03D8] No one
+[03D9] No one
+[03DA] No one
+[03DB] No one
+[03DC] No one
+[03DD] No one
+[03DE] No one
+[03DF] No one
+[03E0] No one
+[03E1] No one
+[03E2] No one
+[03E3] No one
+[03E4] No one
+[03E5] No one
+[03E6] No one
+[03E7] No one
